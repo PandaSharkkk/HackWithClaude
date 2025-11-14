@@ -1,0 +1,152 @@
+[
+  {
+    "id": "1",
+    "name": "SF-Marin Food Bank",
+    "category": "food_bank",
+    "address": "900 Pennsylvania Ave, San Francisco, CA 94107",
+    "latitude": 37.7599,
+    "longitude": -122.3988,
+    "hours": "Mon-Fri 9:00 AM - 4:00 PM",
+    "description": "Provides free groceries to individuals and families in need. No ID or income verification required."
+  },
+  {
+    "id": "2",
+    "name": "St. Anthony's Dining Room",
+    "category": "food_bank",
+    "address": "150 Golden Gate Ave, San Francisco, CA 94102",
+    "latitude": 37.7818,
+    "longitude": -122.4145,
+    "hours": "Daily 10:00 AM - 1:00 PM",
+    "description": "Free daily meals served to anyone in need. No questions asked."
+  },
+  {
+    "id": "3",
+    "name": "Glide Memorial Church",
+    "category": "food_bank",
+    "address": "330 Ellis St, San Francisco, CA 94102",
+    "latitude": 37.7850,
+    "longitude": -122.4124,
+    "hours": "Daily 8:00 AM - 9:00 AM, 12:00 PM - 1:00 PM, 4:30 PM - 5:30 PM",
+    "description": "Three free meals daily, plus social services and support programs."
+  },
+  {
+    "id": "4",
+    "name": "Mission Neighborhood Resource Center",
+    "category": "shelter",
+    "address": "165 Capp St, San Francisco, CA 94110",
+    "latitude": 37.7617,
+    "longitude": -122.4188,
+    "hours": "24/7",
+    "description": "Navigation center providing shelter, meals, and services to help people transition into housing."
+  },
+  {
+    "id": "5",
+    "name": "MSC South Shelter",
+    "category": "shelter",
+    "address": "525 5th St, San Francisco, CA 94107",
+    "latitude": 37.7766,
+    "longitude": -122.4031,
+    "hours": "24/7",
+    "description": "Emergency shelter with case management, meals, and housing support services."
+  },
+  {
+    "id": "6",
+    "name": "Public Fountain - UN Plaza",
+    "category": "water",
+    "address": "United Nations Plaza, San Francisco, CA 94102",
+    "latitude": 37.7805,
+    "longitude": -122.4134,
+    "hours": "24/7",
+    "description": "Public water fountain accessible at all times."
+  },
+  {
+    "id": "7",
+    "name": "Public Fountain - Civic Center Plaza",
+    "category": "water",
+    "address": "Civic Center Plaza, San Francisco, CA 94102",
+    "latitude": 37.7799,
+    "longitude": -122.4187,
+    "hours": "24/7",
+    "description": "Free drinking water fountain in the plaza."
+  },
+  {
+    "id": "8",
+    "name": "Public Fountain - Dolores Park",
+    "category": "water",
+    "address": "Dolores Park, San Francisco, CA 94114",
+    "latitude": 37.7596,
+    "longitude": -122.4269,
+    "hours": "6:00 AM - 10:00 PM",
+    "description": "Multiple water fountains located throughout the park."
+  },
+  {
+    "id": "9",
+    "name": "Pit Stop - 16th St BART",
+    "category": "restroom",
+    "address": "Near 16th St BART Station, Mission St, San Francisco, CA 94103",
+    "latitude": 37.7652,
+    "longitude": -122.4197,
+    "hours": "Daily 8:00 AM - 8:00 PM",
+    "description": "Clean, staffed public restroom facility. Part of SF Pit Stop program."
+  },
+  {
+    "id": "10",
+    "name": "Pit Stop - UN Plaza",
+    "category": "restroom",
+    "address": "United Nations Plaza, San Francisco, CA 94102",
+    "latitude": 37.7803,
+    "longitude": -122.4136,
+    "hours": "Daily 8:00 AM - 8:00 PM",
+    "description": "Staffed public toilet facility with handwashing station."
+  },
+  {
+    "id": "11",
+    "name": "Public Restroom - Golden Gate Park",
+    "category": "restroom",
+    "address": "Golden Gate Park, San Francisco, CA 94122",
+    "latitude": 37.7694,
+    "longitude": -122.4862,
+    "hours": "Dawn to Dusk",
+    "description": "Public restroom facilities available throughout the park."
+  },
+  {
+    "id": "12",
+    "name": "Fixit Clinic - Bayview",
+    "category": "repair_cafe",
+    "address": "Bayview Neighborhood, San Francisco, CA 94124",
+    "latitude": 37.7293,
+    "longitude": -122.3856,
+    "hours": "2nd Saturday of month, 1:00 PM - 4:00 PM",
+    "description": "Free repair help for electronics, clothing, bikes, and household items. Bring your broken items!"
+  },
+  {
+    "id": "13",
+    "name": "Repair Cafe SF - Mission",
+    "category": "repair_cafe",
+    "address": "Mission District, San Francisco, CA 94110",
+    "latitude": 37.7599,
+    "longitude": -122.4148,
+    "hours": "Monthly events - check website",
+    "description": "Community repair event where volunteers help fix items for free. Save money and reduce waste!"
+  },
+  {
+    "id": "14",
+    "name": "Hamilton Family Center",
+    "category": "shelter",
+    "address": "260 Golden Gate Ave, San Francisco, CA 94102",
+    "latitude": 37.7821,
+    "longitude": -122.4159,
+    "hours": "24/7",
+    "description": "Family shelter providing housing and support services for families with children."
+  },
+  {
+    "id": "15",
+    "name": "Food Bank Distribution - Bayview",
+    "category": "food_bank",
+    "address": "Bayview YMCA, 1601 Lane St, San Francisco, CA 94124",
+    "latitude": 37.7315,
+    "longitude": -122.3889,
+    "hours": "Tuesdays 10:00 AM - 12:00 PM",
+    "description": "Weekly food distribution. Bring your own bags if possible."
+  }
+]
