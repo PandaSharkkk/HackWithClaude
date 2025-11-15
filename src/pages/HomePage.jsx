@@ -2,7 +2,7 @@ import { useState } from 'react';
 import Header from '../components/Header';
 import Map from '../components/Map';
 import CategoryFilter from '../components/CategoryFilter';
-import Chatbot from '../components/Chatbot_gemini';
+import Chatbot from '../components/Chatbot';
 import resourcesData from '../data/resources.json';
 
 export default function HomePage() {

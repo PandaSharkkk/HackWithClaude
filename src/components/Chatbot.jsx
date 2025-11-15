@@ -19,9 +19,9 @@ export default function Chatbot() {
     scrollToBottom();
   }, [messages]);
 
-  const callClaudeAPI = async (userMessage, conversationHistory) => {
+  const callChatAPI = async (conversationHistory) => {
     try {
-      console.log('Calling backend API...');
+      console.log('Calling chat API...');
 
       const response = await fetch('http://localhost:3001/api/chat', {
         method: 'POST',
@@ -45,7 +45,7 @@ export default function Chatbot() {
       console.log('API Response received');
       return data.content;
     } catch (error) {
-      console.error('Error calling Claude API:', error);
+      console.error('Error calling chat API:', error);
       return `I'm sorry, I'm having trouble connecting right now. Error: ${error.message}`;
     }
   };
@@ -60,14 +60,14 @@ export default function Chatbot() {
     setMessages(newMessages);
     setIsTyping(true);
 
-    // Prepare conversation history for Claude API
+    // Prepare conversation history
     const conversationHistory = newMessages.map(msg => ({
       role: msg.role,
       content: msg.content,
     }));
 
-    // Call Claude API
-    const assistantResponse = await callClaudeAPI(userMessage, conversationHistory);
+    // Call chat API
+    const assistantResponse = await callChatAPI(conversationHistory);
 
     setMessages(prev => [...prev, {
       role: 'assistant',
@@ -146,7 +146,7 @@ export default function Chatbot() {
           </button>
         </div>
         <p className="text-xs text-gray-500 mt-2 text-center">
-          Powered by Claude AI
+          Powered by AI
         </p>
       </div>
     </div>
