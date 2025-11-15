@@ -20,13 +20,14 @@ const categoryColors = {
   repair_cafe: '#F59E0B', // amber
 };
 
-export default function Map({ resources, selectedCategory }) {
+export default function Map({ resources, selectedCategories }) {
   const [selectedMarker, setSelectedMarker] = useState(null);
   const navigate = useNavigate();
 
-  const filteredResources = selectedCategory === 'all'
-    ? resources
-    : resources.filter(r => r.category === selectedCategory);
+  // If no categories selected, show nothing. If all selected, show all.
+  const filteredResources = selectedCategories.length === 0
+    ? []
+    : resources.filter(r => selectedCategories.includes(r.category));
 
   const handleMarkerClick = (resource) => {
     setSelectedMarker(resource);
