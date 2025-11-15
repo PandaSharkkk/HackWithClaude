@@ -166,6 +166,76 @@ app.post('/api/chat', async (req, res) => {
           "category": "shelter_dropin",
           "website": "https://www.sf.gov/resource--2024--local-drop-centers-people-experiencing-homelessness-san-francisco",
           "hours": "Hours vary; call (415) 671-1100 for info"  
+        },
+        {
+          "id": "hygiene_st_anthonys_hub",
+          "name": "St. Anthony's Hygiene Hub",
+          "category": "hygiene",
+          "website": "https://www.stanthonysf.org/services/hygiene-hub/",
+          "hours": "By appointment; includes showers & laundry"  
+        },
+        {
+          "id": "dropin_mission_nrc",
+          "name": "Mission Neighborhood Resource Center (Drop-In)",
+          "category": "hygiene",
+          "website": "https://www.sf.gov/resource--2024--local-drop-centers-people-experiencing-homelessness-san-francisco",
+          "hours": "Hours vary by service – call (415) 869-7977"  
+        },
+        {
+          "id": "dropin_bayview_center",
+          "name": "Bayview Drop-In Center",
+          "category": "hygiene",
+          "website": "https://www.sf.gov/resource--2024--local-drop-centers-people-experiencing-homelessness-san-francisco",
+          "hours": "Hours vary – call for current schedule"  
+        },
+        {
+          "id": "clothing_st_anthonys_free_clothing",
+          "name": "St. Anthony’s Free Clothing Program",
+          "category": "clothing",
+          "website": "https://sf-goso.org/support-services/free-clothing-program-supportive-services/",
+          "hours": "Mon–Fri, sign-ups 7:30am–12pm; shopping spots ~8:15am–11:45am; family lottery 3:00–4:00pm"  
+        },
+        {
+          "id": "clothing_cradles_to_crayons_sf",
+          "name": "Cradles to Crayons – San Francisco",
+          "category": "clothing",
+          "website": "https://www.cradlestocrayons.org/",
+          "hours": "Depends on program / drop-off; check website for details"  
+        },
+        {
+          "id": "medical_sf_free_clinic_sffc",
+          "name": "San Francisco Free Clinic (SFFC)",
+          "category": "medical",
+          "website": "https://sffc.org/primary-care",
+          "hours": "Mon–Fri 10:00am–4:30pm (by appointment only)"  
+        },
+        {
+          "id": "medical_healthright360_integrated",
+          "name": "HealthRIGHT 360 – Integrated Care Center",
+          "category": "medical",
+          "website": "https://www.sfccc.org/healthright-360/",
+          "hours": "Mon–Fri 8:45am–5:00pm"  
+        },
+        {
+          "id": "medical_sos_street_outreach",
+          "name": "Street Outreach Services (SFCCC / Health Care for the Homeless)",
+          "category": "medical",
+          "website": "https://www.sfccc.org/street-outreach",
+          "hours": "Mobile van – outreach times vary; calls recommended for schedule"  
+        },
+        {
+          "id": "medical_haight_ashbury_free_clinic",
+          "name": "Haight Ashbury Free Medical Clinic",
+          "category": "medical",
+          "website": "https://healthysanfrancisco.org/wp-content/uploads/HSF_Medical_Home_Directory_ENG.pdf",
+          "hours": "Mon–Thu 8:45am–8:00pm; Fri 12:00pm–5:00pm"  
+        },
+        {
+          "id": "medical_housing_urban_health_clinic",
+          "name": "Housing & Urban Health Clinic (HUHC)",
+          "category": "medical",
+          "website": "https://healthysanfrancisco.org/wp-content/uploads/HSF_Medical_Home_Directory_ENG.pdf",
+          "hours": "M, Tu, W, F 8:30am–4:30pm; Thu 8:30am–12:00pm"  
         }
       ]
     };

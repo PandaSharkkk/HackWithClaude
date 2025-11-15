@@ -6,6 +6,9 @@ const categories = [
   { id: 'restroom', label: 'Restrooms', color: 'bg-purple-600', icon: '🚻' },
   { id: 'shelter', label: 'Shelters', color: 'bg-red-600', icon: '🏠' },
   { id: 'repair_cafe', label: 'Repair Cafes', color: 'bg-amber-600', icon: '🔧' },
+  { id: 'hygiene', label: 'Hygiene', color: 'bg-teal-600', icon: '🧼' },
+  { id: 'clothing', label: 'Clothing', color: 'bg-pink-600', icon: '👕' },
+  { id: 'medical', label: 'Medical', color: 'bg-rose-600', icon: '🏥' },
 ];
 
 export default function CategoryFilter({ selectedCategories, setSelectedCategories }) {

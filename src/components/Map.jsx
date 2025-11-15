@@ -18,6 +18,9 @@ const categoryColors = {
   restroom: '#8B5CF6', // purple
   shelter: '#EF4444', // red
   repair_cafe: '#F59E0B', // amber
+  hygiene: '#14B8A6', // teal
+  clothing: '#EC4899', // pink
+  medical: '#F43F5E', // rose
 };
 
 export default function Map({ resources, selectedCategories }) {

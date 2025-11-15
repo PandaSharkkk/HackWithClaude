@@ -8,14 +8,14 @@ export default function AboutPage() {
       <div className="container mx-auto px-4 py-12 max-w-4xl">
         <div className="bg-white rounded-lg shadow-lg p-8">
           <h1 className="text-4xl font-bold text-gray-900 mb-6">
-            About SF Community Resources
+            About Resourcia
           </h1>
 
           <div className="space-y-6 text-gray-700">
             <section>
               <h2 className="text-2xl font-semibold text-gray-900 mb-3">Our Mission</h2>
               <p>
-                The Community Resource Map is designed to help residents and visitors of San Francisco
+                Resourcia is designed to help residents and visitors of San Francisco
                 easily find essential community resources. Whether you need food, shelter, water,
                 restrooms, or repair services, our interactive map makes it simple to locate help nearby.
               </p>
@@ -29,6 +29,15 @@ export default function AboutPage() {
                 </li>
                 <li>
                   <strong>Shelters:</strong> Emergency housing and support services
+                </li>
+                <li>
+                  <strong>Medical:</strong> Free and low-cost healthcare clinics and services
+                </li>
+                <li>
+                  <strong>Hygiene:</strong> Showers, toiletries, and personal care facilities
+                </li>
+                <li>
+                  <strong>Clothing:</strong> Free clothing and apparel assistance
                 </li>
                 <li>
                   <strong>Water Fountains:</strong> Public drinking water access points

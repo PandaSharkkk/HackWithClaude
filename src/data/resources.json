@@ -148,5 +148,95 @@
     "longitude": -122.3889,
     "hours": "Tuesdays 10:00 AM - 12:00 PM",
     "description": "Weekly food distribution. Bring your own bags if possible."
+  },
+  {
+    "id": "16",
+    "name": "Lava Mae - Mobile Hygiene",
+    "category": "hygiene",
+    "address": "Mission District (mobile service), San Francisco, CA 94110",
+    "latitude": 37.7599,
+    "longitude": -122.4148,
+    "hours": "Check website for schedule",
+    "description": "Mobile showers and hygiene services. Free toiletries provided. Check schedule for locations."
+  },
+  {
+    "id": "17",
+    "name": "St. Anthony's Hygiene Center",
+    "category": "hygiene",
+    "address": "150 Golden Gate Ave, San Francisco, CA 94102",
+    "latitude": 37.7818,
+    "longitude": -122.4145,
+    "hours": "Mon-Fri 8:00 AM - 3:00 PM",
+    "description": "Showers, restrooms, and basic hygiene supplies available. No appointment needed."
+  },
+  {
+    "id": "18",
+    "name": "Glide Hygiene Services",
+    "category": "hygiene",
+    "address": "330 Ellis St, San Francisco, CA 94102",
+    "latitude": 37.7850,
+    "longitude": -122.4124,
+    "hours": "Daily 7:00 AM - 1:00 PM",
+    "description": "Free showers, toiletries, and clothing. Walk-in basis, first come first served."
+  },
+  {
+    "id": "19",
+    "name": "St. Vincent de Paul Clothing Center",
+    "category": "clothing",
+    "address": "525 5th St, San Francisco, CA 94107",
+    "latitude": 37.7766,
+    "longitude": -122.4031,
+    "hours": "Mon-Fri 9:00 AM - 5:00 PM",
+    "description": "Free clothing for men, women, and children. Seasonal items available."
+  },
+  {
+    "id": "20",
+    "name": "Episcopal Community Services Clothing",
+    "category": "clothing",
+    "address": "165 8th St, San Francisco, CA 94103",
+    "latitude": 37.7759,
+    "longitude": -122.4094,
+    "hours": "Mon-Fri 10:00 AM - 3:00 PM",
+    "description": "Free clothing closet. Bring ID if possible but not required."
+  },
+  {
+    "id": "21",
+    "name": "Goodwill Free Clothing Program",
+    "category": "clothing",
+    "address": "1580 Mission St, San Francisco, CA 94103",
+    "latitude": 37.7730,
+    "longitude": -122.4194,
+    "hours": "Tue-Sat 10:00 AM - 4:00 PM",
+    "description": "Free vouchers for clothing. Job interview outfits available."
+  },
+  {
+    "id": "22",
+    "name": "SF Free Clinic",
+    "category": "medical",
+    "address": "4900 California St, San Francisco, CA 94118",
+    "latitude": 37.7844,
+    "longitude": -122.4628,
+    "hours": "Mon-Fri 10:00 AM - 4:00 PM (appointment recommended)",
+    "description": "Free medical care including primary care, dental, mental health. No insurance required."
+  },
+  {
+    "id": "23",
+    "name": "Tom Waddell Urban Health Clinic",
+    "category": "medical",
+    "address": "230 Golden Gate Ave, San Francisco, CA 94102",
+    "latitude": 37.7816,
+    "longitude": -122.4153,
+    "hours": "Mon-Fri 8:00 AM - 5:00 PM",
+    "description": "Primary care, HIV/AIDS services, mental health. Sliding scale fees, no one turned away."
+  },
+  {
+    "id": "24",
+    "name": "HealthRIGHT 360 Mission Clinic",
+    "category": "medical",
+    "address": "1563 Mission St, San Francisco, CA 94103",
+    "latitude": 37.7728,
+    "longitude": -122.4192,
+    "hours": "Mon-Fri 9:00 AM - 5:00 PM",
+    "description": "Medical services, substance abuse treatment, behavioral health. Walk-ins welcome."
   }
 ]
