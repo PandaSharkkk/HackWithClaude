@@ -21,6 +21,8 @@ const categoryColors = {
   hygiene: '#14B8A6', // teal
   clothing: '#EC4899', // pink
   medical: '#F43F5E', // rose
+  mental_health_safety: '#6366F1', // indigo
+  lost_id_docs: '#06B6D4', // cyan
 };
 
 export default function Map({ resources, selectedCategories }) {

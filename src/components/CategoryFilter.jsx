@@ -9,6 +9,8 @@ const categories = [
   { id: 'hygiene', label: 'Hygiene', color: 'bg-teal-600', icon: '🧼' },
   { id: 'clothing', label: 'Clothing', color: 'bg-pink-600', icon: '👕' },
   { id: 'medical', label: 'Medical', color: 'bg-rose-600', icon: '🏥' },
+  { id: 'mental_health_safety', label: 'Mental Health & Crisis', color: 'bg-indigo-600', icon: '🆘' },
+  { id: 'lost_id_docs', label: 'ID & Documents', color: 'bg-cyan-600', icon: '📋' },
 ];
 
 export default function CategoryFilter({ selectedCategories, setSelectedCategories }) {

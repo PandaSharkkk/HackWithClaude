@@ -238,5 +238,75 @@
     "longitude": -122.4192,
     "hours": "Mon-Fri 9:00 AM - 5:00 PM",
     "description": "Medical services, substance abuse treatment, behavioral health. Walk-ins welcome."
+  },
+  {
+    "id": "25",
+    "name": "SF Suicide Prevention Crisis Line",
+    "category": "mental_health_safety",
+    "address": "PO Box 191350, San Francisco, CA 94119",
+    "latitude": 37.7749,
+    "longitude": -122.4194,
+    "hours": "24/7",
+    "description": "24/7 crisis hotline for suicide prevention and mental health support. Call anytime."
+  },
+  {
+    "id": "26",
+    "name": "988 Suicide & Crisis Lifeline",
+    "category": "mental_health_safety",
+    "address": "National Hotline - Available Citywide",
+    "latitude": 37.7749,
+    "longitude": -122.4194,
+    "hours": "24/7",
+    "description": "National suicide prevention and crisis support. Call 988 or text anytime."
+  },
+  {
+    "id": "27",
+    "name": "NAMI San Francisco",
+    "category": "mental_health_safety",
+    "address": "870 Market St #928, San Francisco, CA 94102",
+    "latitude": 37.7844,
+    "longitude": -122.4078,
+    "hours": "Hours vary by hotline/team",
+    "description": "Mental health resources, support groups, crisis intervention, and education programs."
+  },
+  {
+    "id": "28",
+    "name": "California DMV - San Francisco",
+    "category": "lost_id_docs",
+    "address": "1377 Fell St, San Francisco, CA 94117",
+    "latitude": 37.7733,
+    "longitude": -122.4394,
+    "hours": "Mon/Tue/Thu/Fri 8:00 AM - 5:00 PM; Wed 9:00 AM - 5:00 PM",
+    "description": "State ID cards and driver's licenses. Bring required documents for identification."
+  },
+  {
+    "id": "29",
+    "name": "Homeless ID Project",
+    "category": "lost_id_docs",
+    "address": "San Francisco (call for appointment location)",
+    "latitude": 37.7749,
+    "longitude": -122.4194,
+    "hours": "By appointment only",
+    "description": "Free help obtaining government-issued ID for those experiencing homelessness."
+  },
+  {
+    "id": "30",
+    "name": "Clinic by the Bay",
+    "category": "medical",
+    "address": "2940 16th St, San Francisco, CA 94103",
+    "latitude": 37.7652,
+    "longitude": -122.4111,
+    "hours": "Mon 10:00 AM - 5:00 PM; Tue 12:00 PM - 8:00 PM; Thu 10:00 AM - 6:00 PM",
+    "description": "Free medical, dental, and behavioral health services. No insurance required."
+  },
+  {
+    "id": "31",
+    "name": "City Clinic SF",
+    "category": "medical",
+    "address": "356 7th St, San Francisco, CA 94103",
+    "latitude": 37.7753,
+    "longitude": -122.4064,
+    "hours": "Mon/Wed/Fri 8:00 AM - 4:00 PM; Tue 1:00 PM - 6:00 PM; Thu 8:00 AM - 11:00 AM & 1:00 PM - 4:00 PM",
+    "description": "Sexual health services including HIV/STI testing and treatment. Free and confidential."
   }
 ]

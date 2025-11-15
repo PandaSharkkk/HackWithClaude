@@ -34,10 +34,16 @@ export default function AboutPage() {
                   <strong>Medical:</strong> Free and low-cost healthcare clinics and services
                 </li>
                 <li>
+                  <strong>Mental Health & Crisis:</strong> 24/7 crisis lines and mental health support
+                </li>
+                <li>
                   <strong>Hygiene:</strong> Showers, toiletries, and personal care facilities
                 </li>
                 <li>
                   <strong>Clothing:</strong> Free clothing and apparel assistance
+                </li>
+                <li>
+                  <strong>ID & Documents:</strong> Help obtaining identification and important documents
                 </li>
                 <li>
                   <strong>Water Fountains:</strong> Public drinking water access points

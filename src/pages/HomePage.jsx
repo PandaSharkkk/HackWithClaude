@@ -6,8 +6,19 @@ import Chatbot from '../components/Chatbot';
 import resourcesData from '../data/resources.json';
 
 export default function HomePage() {
-  // Initialize with only food banks selected
-  const [selectedCategories, setSelectedCategories] = useState(['food_bank']);
+  // Initialize with all categories selected
+  const [selectedCategories, setSelectedCategories] = useState([
+    'food_bank',
+    'water',
+    'restroom',
+    'shelter',
+    'repair_cafe',
+    'hygiene',
+    'clothing',
+    'medical',
+    'mental_health_safety',
+    'lost_id_docs'
+  ]);
 
   return (
     <div className="h-screen flex flex-col">
